@@ -1,9 +1,9 @@
 # bachelor_thesis_repo
 
-This repository contains the code for my bachelor thesis
+Dieses Repository enthält den Code zu der Bachelorarbeit
 
-To use the code, download the multi2WOZ Dataset and create a folder "multi2woz_dataset" where you need to put the files.
+Um den Code auszuführen muss zunächst der Multi2WOZ Datensatz heruntergeladen werden und in einen Ordner mit dem Namen "multi2woz_dataset" gepackt werden
 
-Then you will be able to execute the model_training.ipynb
+Dann lässt sich der Code in dem Jupyter Notebook model_training.ipynb ausführen
 
-The adapters folder contains the trained adapters created in this project (There is a section how to use them in the model_training.ipynb)
+Der Ordner adapters enthält die im Rahmen dieser Arbeit trainierten Adapter (in model_training.ipynb ist ein Abschnitt in dem gezeigt wird, wie diese verwendet werden können)
